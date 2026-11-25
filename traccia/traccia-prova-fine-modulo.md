@@ -76,7 +76,7 @@ Il riferimento visuale per la progettazione è il **wireframe HTML** fornito nel
 - Il documento di progettazione deve essere **necessariamente in formato Word** (`.docx`).
 - **Altri formati** (PDF, Google Docs esportato, Markdown, immagini, ecc.) vengono conteggiati con **valutazione 0**.
 - Il file Word compilato deve essere **caricato e consegnato su Teams**.
-- La scheda **non** deve essere inclusa nel repository GitHub.
+- La scheda  deve essere inclusa nel repository GitHub.
 
 ---
 
@@ -95,7 +95,7 @@ Partire da quel repository (fork/clone secondo le indicazioni del docente) e svi
 
 | Voce          | Valore                                                 |
 | ------------- | ------------------------------------------------------ |
-| Nome progetto | `esame-fe2-{cognome}` (es. `esame-fe2-rossi`)          |
+| Nome progetto |    |
 | Stack         | React + TypeScript                                     |
 | Routing       | React Router                                           |
 | Versionamento | Git + GitHub                                           |
